@@ -1,6 +1,6 @@
 ### 안녕하세요 노력하며 성장하는 김승은입니다.👋
 <!--[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fseunghoria)](https://hits.seeyoufarm.com) 
-<!--
+
 **seunghoria/seunghoria** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
